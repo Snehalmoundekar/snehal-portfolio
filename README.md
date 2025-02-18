@@ -12,4 +12,4 @@ A **modern and responsive portfolio** built with **HTML, CSS, and JavaScript**, 
 ## 📌 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Snehalmoundekar/Snehal-Portfolio
+   https://github.com/Snehalmoundekar/Snehal-Portfolio
